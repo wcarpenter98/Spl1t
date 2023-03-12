@@ -1,0 +1,1 @@
+Application requires FFmpeg path variable. 
